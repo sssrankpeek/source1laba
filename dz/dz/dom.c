@@ -9,11 +9,11 @@ void main()
 	puts("               X_____________X------------------------X");
 	puts("              X_______________X------------------------X");
 	puts("              XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX");
-	puts("              X---------------X------------------------X");
-	puts("              X--000-----000--X----------11111---------X");
-	puts("              X--000-----000--X---------1  |  1--------X");
-	puts("              X------111------X---------1  |  1--------X");
-	puts("              X------011------X---------1111111--------X");
-	puts("              X------111------X------------------------X");
+	puts("              X               X                        X");
+	puts("              X  000     000  X          11111         X");
+	puts("              X  000     000  X         1  |  1        X");
+	puts("              X      111      X         1  |  1        X");
+	puts("              X      *11      X         1111111        X");
+	puts("              X      111      X                        X");
 	puts("              XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX");
 }
