@@ -1,0 +1,5 @@
+﻿  Source.c
+  Source2.c
+  Создание кода...
+Source2.obj : error LNK2005: main уже определен в Source.obj
+C:\Users\TEMP\source\repos\uhecnm\x64\Debug\uhecnm.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
